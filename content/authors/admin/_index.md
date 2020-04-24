@@ -28,13 +28,13 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: Lancaster University University
+    institution: Lancaster University
     year: September 2020 
   - course: M.S in Computer Software Engineering
     institution: University of Science and Technology 
     year: 2017
   - course: B.S Information and Communication Systems Engineering
-    institution: National University of Sciences and  Technology
+    institution: National University of Sciences and Technology
     year: 2012
 
 # Social/Academic Networking
@@ -56,9 +56,9 @@ social:
   link: https://github.com/umair90
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "m.umair7@lancaster.ac.uk"

@@ -15,7 +15,7 @@ role: Research Associate
 # Organizations/Affiliations
 organizations:
 - name: Lancaster University
-  url: ""
+  url: https://www.lancaster.ac.uk/people-profiles/muhammad-umair
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

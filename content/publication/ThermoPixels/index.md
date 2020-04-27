@@ -1,5 +1,5 @@
 ---
-title: "ThermoPixels: Toolkit for Personalizing Arousal-based Interfaces through Hybrid Crafting"
+title: "ThermoPixelhhhs: Toolkit for Personalizing Arousal-based Interfaces through Hybrid Crafting"
 authors:
 - Muhammad Umair
 - Corina Sas

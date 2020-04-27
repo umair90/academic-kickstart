@@ -1,14 +1,14 @@
 ---
-title: "ThermoPixels: Toolkit for Personalizing Arousal-based Interfaces through Hybrid Crafting"
+title: "Dynamic Displays at Wrist for Real Time Visualization of Affective Data"
 authors:
 - Muhammad Umair
+- Muhammad Hamza Latif
 - Corina Sas
-- Miquel Alfaras
-date: "2020-04-09T00:00:00Z"
-doi: ""
+date: "2018-05-30T00:00:00Z"
+doi: "https://doi.org/10.1145/3197391.3205436"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-09T00:00:00Z"
+publishDate: "2018-05-30T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,19 +17,19 @@ publishDate: "2020-04-09T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2020 on Designing Interactive Systems Conference - DIS '20*
-publication_short: In *DIS '20*
+publication: In *Companion Proceedings of the 2018 ACM Conference Companion Publication on Designing Interactive Systems - DIS '18*
+publication_short: In *DIS '18*
 
-abstract: Much research has shown the potential of affective interfaces to support people reflect on, and understand their bodily responses. Yet, people find it difficult to engage with, and understand their biodata which they have limited prior experience with. Building on affective interfaces and material-centered design, we developed ThermoPixels, a toolkit including thermochromic and heating materials, as well as galvanic skin response sensors for creating representations of physiological arousal. Within 10 workshops, 20 participants created personalized representations of physiological arousal and its real-time changes using the toolkit. We report on participants’ material exploration, their experience of creating shapes and the use of colors for emotional awareness and regulation. Reflecting on our findings, we discuss embodied exploration and creative expression, the value of technology in emotion regulation and its social context, and the importance of understanding material limitations for effective sense-making.
+abstract: Emotions are vital to our lives but could be difficult to recognize and understand. Traditional visualizations of emotions tend to be time-series graph on screen displays limiting user engagement in their real-time sense-making. This paper explores the feasibility of smart materials for developing novel dynamic displays on skin for real time visualization of affective data. We report prototyping two such displays and their evaluation with 6 participants, and discuss their qualities such as ambiguity, slowly unfolding change, and lack of light emission together with their temporal constraints and private-public tension for affective meaning disclosure.
 
 tags:
-- Toolkit; thermochromic materials; arousal representations; personalization; affective interfaces; biosensors
-featured: true
+- Affective displays; ambiguity; slowness; experience
+featured: false
 
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: https://eprints.lancs.ac.uk/id/eprint/143101/1/dis20a_sub7132_i8.pdf
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3197391.3205436
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'

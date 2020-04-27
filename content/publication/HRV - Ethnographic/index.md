@@ -17,7 +17,7 @@ publishDate: "2020-04-09T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2020 on Designing Interactive Systems Conference - DIS '20*
+publication: In *Proceedings of the 2020 on Designing Interactive Systems Conference*
 publication_short: In *DIS '20*
 
 abstract: Much research has shown the potential of affective interfaces to support people reflect on, and understand their bodily responses. Yet, people find it difficult to engage with, and understand their biodata which they have limited prior experience with. Building on affective interfaces and material-centered design, we developed ThermoPixels, a toolkit including thermochromic and heating materials, as well as galvanic skin response sensors for creating representations of physiological arousal. Within 10 workshops, 20 participants created personalized representations of physiological arousal and its real-time changes using the toolkit. We report on participants’ material exploration, their experience of creating shapes and the use of colors for emotional awareness and regulation. Reflecting on our findings, we discuss embodied exploration and creative expression, the value of technology in emotion regulation and its social context, and the importance of understanding material limitations for effective sense-making.

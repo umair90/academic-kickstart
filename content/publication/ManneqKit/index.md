@@ -1,9 +1,9 @@
 ---
-title: "ThermoPixels: Toolkit for Personalizing Arousal-based Interfaces through Hybrid Crafting"
+title: "ManneqKit Cards: A Kinesthetic Empathic Design Tool Communicating Depression Experiences"
 authors:
-- Muhammad Umair
 - Corina Sas
-- Miquel Alfaras
+- Kobi Hartley
+- Muhammad Umair
 date: "2020-04-09T00:00:00Z"
 doi: ""
 
@@ -17,19 +17,19 @@ publishDate: "2020-04-09T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2020 on Designing Interactive Systems Conference - DIS '20*
+publication: In *Proceedings of the 2020 Designing Interactive Systems Conference - DIS '20*
 publication_short: In *DIS '20*
 
-abstract: Much research has shown the potential of affective interfaces to support people reflect on, and understand their bodily responses. Yet, people find it difficult to engage with, and understand their biodata which they have limited prior experience with. Building on affective interfaces and material-centered design, we developed ThermoPixels, a toolkit including thermochromic and heating materials, as well as galvanic skin response sensors for creating representations of physiological arousal. Within 10 workshops, 20 participants created personalized representations of physiological arousal and its real-time changes using the toolkit. We report on participants’ material exploration, their experience of creating shapes and the use of colors for emotional awareness and regulation. Reflecting on our findings, we discuss embodied exploration and creative expression, the value of technology in emotion regulation and its social context, and the importance of understanding material limitations for effective sense-making.
+abstract: While depression is a mood disorder with significant societal impact, the experiences of people living with depression are yet not easy to access. HCI’s tenet to understand users, particularly addressed by the empathic design approach, has prioritized verbal communication of such experiences. We introduce ManneqKit, a kinesthetic empathic design tool consisting of 15 cards with bodily postures and vignettes leveraging the nonverbal aspects of depression experiences. We report ManneqKit’s co-design with 10 therapists, its piloting with 4 therapists and 10 non-therapists, and evaluation through design workshops with 9 interaction designers. Findings indicate cards’ ability to elicit non-therapists’ increased empathy, and richer emotional depictions when compared to text-based description of depression symptoms. We discuss the value of these findings for interaction design in supporting richer understanding of vulnerable users experiencing depression, for more sensitive conceptual designs in the ideation stage, and more nuanced ethical values underpinning the overall design process.
 
 tags:
-- Toolkit; thermochromic materials; arousal representations; personalization; affective interfaces; biosensors
-featured: true
+- Affective health; depression; emotional experience; design methods; empathy; postures; body; embodiment; ethics. 
+featured: false
 
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: https://eprints.lancs.ac.uk/id/eprint/143101/1/dis20a_sub7132_i8.pdf
+url_pdf: https://eprints.lancs.ac.uk/id/eprint/143098/1/dis20a_sub9751_i8.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'

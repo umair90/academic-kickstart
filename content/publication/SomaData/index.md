@@ -1,14 +1,18 @@
 ---
-title: "ThermoPixels: Toolkit for Personalizing Arousal-based Interfaces through Hybrid Crafting"
+title: "From Biodata to Somadata"
 authors:
+- Miquel Alfaras
+- Vasiliki Tsaknaki
+- Pedro Sanches
+- Charles Windlin
 - Muhammad Umair
 - Corina Sas
-- Miquel Alfaras
-date: "2020-04-09T00:00:00Z"
+- Kristina Hook
+date: "2010-12-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-09T00:00:00Z"
+publishDate: "2019-12-09T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,19 +21,19 @@ publishDate: "2020-04-09T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2020 on Designing Interactive Systems Conference - DIS '20*
-publication_short: In *DIS '20*
+publication: In *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems - CHI '20*
+publication_short: In *CHI '20*
 
-abstract: Much research has shown the potential of affective interfaces to support people reflect on, and understand their bodily responses. Yet, people find it difficult to engage with, and understand their biodata which they have limited prior experience with. Building on affective interfaces and material-centered design, we developed ThermoPixels, a toolkit including thermochromic and heating materials, as well as galvanic skin response sensors for creating representations of physiological arousal. Within 10 workshops, 20 participants created personalized representations of physiological arousal and its real-time changes using the toolkit. We report on participants’ material exploration, their experience of creating shapes and the use of colors for emotional awareness and regulation. Reflecting on our findings, we discuss embodied exploration and creative expression, the value of technology in emotion regulation and its social context, and the importance of understanding material limitations for effective sense-making.
+abstract: Biosensing technologies are increasingly available as offthe-shelf products, yet for many designers, artists and nonengineers, these technologies remain difficult to design with. Through a soma design stance, we devised a novel approach for exploring qualities in biodata. Our explorative process culminated in the design of three artifacts, coupling biosignals to tangible actuation formats. By making abstract biodata perceivable as sound, in tangible form or directly on the skin, it became possible to link qualities of the measurements to our own somatics–our felt experience of our bodily bioprocesses–as they dynamically unfold, spurring somatically-grounded design discoveries of novel possible interactions. We show that making biodata attainable for a felt experience–or as we frame it: turning biodata into somadata–enables not only first-person encounters, but also supports collaborative design processes as the somadata can be shared and experienced dynamically, right at the moment when we explore design ideas.
 
 tags:
-- Toolkit; thermochromic materials; arousal representations; personalization; affective interfaces; biosensors
-featured: true
+- biosensing; soma design; first-person perspective; affective technology; interaction design;
+featured: false
 
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: https://eprints.lancs.ac.uk/id/eprint/143101/1/dis20a_sub7132_i8.pdf
+url_pdf: https://eprints.lancs.ac.uk/id/eprint/140250/1/chi20_accepted_manuscript.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'

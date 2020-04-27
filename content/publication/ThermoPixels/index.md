@@ -24,7 +24,7 @@ abstract: Much research has shown the potential of affective interfaces to suppo
 
 tags:
 - Toolkit; thermochromic materials; arousal representations; personalization; affective interfaces; biosensors
-featured: true
+featured: false
 
 links:
 - name: Custom Link

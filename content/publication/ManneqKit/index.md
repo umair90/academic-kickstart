@@ -1,13 +1,14 @@
 ---
-title: "An example conference paper"
+title: "ManneqKit Cards: A Kinesthetic Empathic Design Tool Communicating Depression Experiences"
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Corina Sas
+- Kobi Hartley
+- Muhammad Umair
+date: "2020-04-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-04-09T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,22 +17,19 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *Proceedings of the 2020 Designing Interactive Systems Conference - DIS '20*
+publication_short: In *DIS '20*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: While depression is a mood disorder with significant societal impact, the experiences of people living with depression are yet not easy to access. HCI’s tenet to understand users, particularly addressed by the empathic design approach, has prioritized verbal communication of such experiences. We introduce ManneqKit, a kinesthetic empathic design tool consisting of 15 cards with bodily postures and vignettes leveraging the nonverbal aspects of depression experiences. We report ManneqKit’s co-design with 10 therapists, its piloting with 4 therapists and 10 non-therapists, and evaluation through design workshops with 9 interaction designers. Findings indicate cards’ ability to elicit non-therapists’ increased empathy, and richer emotional depictions when compared to text-based description of depression symptoms. We discuss the value of these findings for interaction design in supporting richer understanding of vulnerable users experiencing depression, for more sensitive conceptual designs in the ideation stage, and more nuanced ethical values underpinning the overall design process.
 
 tags:
-- Source Themes
-featured: true
+- Affective health; depression; emotional experience; design methods; empathy; postures; body; embodiment; ethics. 
+featured: false
 
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://eprints.lancs.ac.uk/id/eprint/143098/1/dis20a_sub9751_i8.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'

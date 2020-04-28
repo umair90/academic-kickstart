@@ -1,9 +1,13 @@
 ---
-title: "ThermoPixels: Toolkit for Personalizing Arousal-based Interfaces through Hybrid Crafting"
+title: "From Biodata to Somadata"
 authors:
+- Miquel Alfaras
+- Vasiliki Tsaknaki
+- Pedro Sanches
+- Charles Windlin
 - Muhammad Umair
 - Corina Sas
-- Miquel Alfaras
+- Kristina Höök
 date: "2020-04-09T00:00:00Z"
 doi: ""
 

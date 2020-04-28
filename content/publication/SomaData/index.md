@@ -1,18 +1,22 @@
 ---
-title: "From Biodata to Somadata"
+title: "HCI and Affective Health: Taking stock of a decade of studies and charting future research directions"
 authors:
-- Miquel Alfaras
-- Vasiliki Tsaknaki
 - Pedro Sanches
-- Charles Windlin
+- Axel Janson
+- Pavel Karpashevich
+- Camille Nadal
+- Chengcheng Qu
+- Claudia Daudén Roquet
 - Muhammad Umair
+- Charles Windlin
+- Gavin Doherty
+- Kristina Höök
 - Corina Sas
-- Kristina Hook
-date: "2010-12-09T00:00:00Z"
-doi: ""
+date: "2019-04-18T00:00:00Z"
+doi: "https://doi.org/10.1145/3290605.3300475"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-12-09T00:00:00Z"
+publishDate: "019-04-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,19 +25,22 @@ publishDate: "2019-12-09T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems - CHI '20*
-publication_short: In *CHI '20*
+publication: In *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems - CHI '19*
+publication_short: In *CHI '19*
 
-abstract: Biosensing technologies are increasingly available as offthe-shelf products, yet for many designers, artists and nonengineers, these technologies remain difficult to design with. Through a soma design stance, we devised a novel approach for exploring qualities in biodata. Our explorative process culminated in the design of three artifacts, coupling biosignals to tangible actuation formats. By making abstract biodata perceivable as sound, in tangible form or directly on the skin, it became possible to link qualities of the measurements to our own somatics–our felt experience of our bodily bioprocesses–as they dynamically unfold, spurring somatically-grounded design discoveries of novel possible interactions. We show that making biodata attainable for a felt experience–or as we frame it: turning biodata into somadata–enables not only first-person encounters, but also supports collaborative design processes as the somadata can be shared and experienced dynamically, right at the moment when we explore design ideas.
+abstract: In the last decade, the number of articles on HCI and health has increased dramatically. We extracted 139 papers on depression, anxiety and bipolar health issues from 10 years of SIGCHI conference proceedings. 72 of these were published in the last two years. A systematic analysis of this growing body of literature revealed that most innovation happens in automated diagnosis, and self-tracking, although there are innovative ideas in tangible interfaces. We noted an overemphasis on data production without consideration of how it leads to fruitful interventions. Moreover, we see a need to promote ethical practices for involvement of people living with affective disorders. Finally, although only 16 studies evaluate technologies in a clinical context, several forms of support and intervention illustrate how rich insights are gained from evaluations with real patients. Our findings highlight potential for growth in the design space of affective health technologies.
+
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- biosensing; soma design; first-person perspective; affective technology; interaction design;
+- affective disorders,literature review,innovation,clinical trials,ethical issues
 featured: false
 
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: https://eprints.lancs.ac.uk/id/eprint/140250/1/chi20_accepted_manuscript.pdf
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3290605.3300475
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'

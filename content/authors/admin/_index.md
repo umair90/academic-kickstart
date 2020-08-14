@@ -67,7 +67,9 @@ user_groups:
   - Visitors
 ---
 
-I am a Marie Skłodowska-Curie fellow working as a Research Associate and as well as completing my Ph.D. in Computer Science at School of Computing and Communications, Lancaster University, UK. My Ph.D. research is based on a digital health project AffecTech – Personal Technologies for Affective health.
+I am a Marie Skłodowska-Curie fellow working as a Research Associate and as well as completing my Ph.D. in Computer Science at School of Computing and Communications, Lancaster University, UK.
+
+<!-- My Ph.D. research is based on a digital health project AffecTech – Personal Technologies for Affective health. -->
 
 <!-- I have completed a Master's in Computer Software Engineering while working full-time in the Electronics and Telecommunication Research Institute (ETRI), South Korea. I have a Bachelor's degree in Information and Communication Systems Engineering from the National University of Sciences and Technology (NUST), Pakistan. -->
 

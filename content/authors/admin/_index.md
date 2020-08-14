@@ -67,6 +67,8 @@ user_groups:
   - Visitors
 ---
 
-I am a Marie Skłodowska-Curie fellow working as a Research Associate and as well as completing my Ph.D. in Computer Science at School of Computing and Communications, Lancaster University, UK. My Ph.D. research is based on a digital health project AffecTech – Personal Technologies for Affective health. I have completed a Master's in Computer Software Engineering while working full-time in the Electronics and Telecommunication Research Institute (ETRI), South Korea. I have a Bachelor's degree in Information and Communication Systems Engineering from the National University of Sciences and Technology (NUST), Pakistan.
+I am a Marie Skłodowska-Curie fellow working as a Research Associate and as well as completing my Ph.D. in Computer Science at School of Computing and Communications, Lancaster University, UK. My Ph.D. research is based on a digital health project AffecTech – Personal Technologies for Affective health.
+
+<!-- I have completed a Master's in Computer Software Engineering while working full-time in the Electronics and Telecommunication Research Institute (ETRI), South Korea. I have a Bachelor's degree in Information and Communication Systems Engineering from the National University of Sciences and Technology (NUST), Pakistan. -->
 
 My Ph.D. research focuses on designing and developing interactive interfaces for affective health. In particular, I developed wearable biofeedback technologies that capture health data from sensors. I commonly employ machine learning on biosensing data to detect an affective state and translate them into the changes in visual and haptic materials for reflection and regulation of emotions in daily lives.
